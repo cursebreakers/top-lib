@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', 'Courier', 'Monospace';
+}
+
+body {
+    background-color: #111111;
+    color: antiquewhite;
+}
+
+.navbar {
+    display: flex;
+}
+
+.book {
+    background-color: antiquewhite;
+    color: #111111;
+    padding: 8px;
+}
+
+#desk {
+    padding: 12px;
+}
